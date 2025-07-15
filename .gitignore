@@ -1,0 +1,15 @@
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+# Added by me #
+
+*.d
+*.pcm
+*~
+# Mac-specific
+.DS_Store
